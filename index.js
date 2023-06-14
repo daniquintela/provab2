@@ -62,7 +62,7 @@ if (validarSenha(senha)){
 
 
 
-// Função para gerar fatorial de um número e fatorial de 0-10
+// Função para gerar fatorial de um número e fatorial de 1-10
 function fatorialNumero(){
     var number = parseInt(prompt("Digite um número"));
 
