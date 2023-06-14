@@ -87,7 +87,7 @@ function exibirFatorial(number) {
     return fatorial;
   }
   
-  for (var j = 0; j <= 10; j++) {
+  for (var j = 1; j <= 10; j++) {
     console.log("Fatorial de " + j + ": " + exibirFatorial(j));
   }
   
